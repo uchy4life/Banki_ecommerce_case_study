@@ -1,10 +1,13 @@
 ## Banki Ecommerce
 
 ### Project Overview
-Banki Ecommerce is my online retail business focused on offering a wide selection of perfumes and fragrance-related products. The goal is to provide customers with premium products from a variety of trusted brands, all while ensuring a smooth and satisfying shopping experience. To improve operations and boost customer satisfaction, the store aim to harness data-driven insights by applying advanced data engineering methods.
+Banki Ecommerce is an online perfume retail business that offers a diverse range of fragrances from renowned brands. To enhance customer satisfaction and optimize operations, the company utilizes a data-driven approach by implementing advanced data engineering solutions
 
 ## Problem Statement
-Banki Ecommerce faces challenges in effectively managing and analyzing its vast amounts of data, including historical sales data, customer information, and inventory data. The company requires efficient data engineering solutions to streamline data processing, perform comprehensive analysis, and derive actionable insights to improve decision-making processes and enhance business performance.
+Banki Ecommerce deals with large volumes of historical sales data, customer records, and inventory logs. Without a proper data engineering pipeline, the business struggles to:
+- Maintain consistent and accurate data
+- Analyze trends and customer behavior
+- Support strategic decisions with real-time data insights
 
 ## Project Scope
 - Data Extraction from Historical CSV Data
@@ -34,6 +37,7 @@ Banki Ecommerce faces challenges in effectively managing and analyzing its vast 
 - Streamlined data loading and storage processes.
 - Facilitated collaboration and version control.
 - Empowered decision-making through data-driven insights.
+- High integrity datasets ready for reporting and dashboarding.
 
 ## Tech Stack
 - Python
