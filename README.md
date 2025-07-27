@@ -30,6 +30,7 @@ Banki Ecommerce deals with large volumes of historical sales data, customer reco
 - Load the processed data into a PostgreSQL database for storage and easy access.
 - Implement version control using GitHub Desktop to manage codebase changes and collaborate effectively.
 
+![alt text](https://github.com/uchy4life/Uche_Portfolio/blob/main/Unknown.png)
 ## Outcomes
 
 - Improved efficiency in data processing and analysis.
